@@ -1,0 +1,12 @@
+/* class for sidebar */
+
+.sidebar {
+    padding: 20px 40px 40px 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar_item {
+    padding: 20px 10px 10px 10px;
+    font-size: 20px;
+}

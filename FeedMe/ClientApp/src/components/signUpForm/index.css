@@ -1,0 +1,11 @@
+/* class for sidebar */
+
+#sign-in-container {
+    max-width: 600px;
+    margin: auto;
+    padding-top: 2em;
+}
+
+.sign-up-form {
+    padding-top: 2em;
+}

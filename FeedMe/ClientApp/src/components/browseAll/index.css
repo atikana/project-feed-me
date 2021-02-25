@@ -1,0 +1,9 @@
+/* class for sidebar */
+
+.flex-grid-container {
+    display: flex;
+    max-width: 1000px;
+    padding-top: 2em;
+    margin-left: 4em;
+    flex-wrap: wrap;
+}

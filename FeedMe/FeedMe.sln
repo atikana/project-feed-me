@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedMe", "FeedMe.csproj", "{F6377AA2-3087-4CE0-BBA1-18B5C80CD81C}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{3B4C93FA-5D13-407D-9BAA-4AD6EFAD4284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6377AA2-3087-4CE0-BBA1-18B5C80CD81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6377AA2-3087-4CE0-BBA1-18B5C80CD81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6377AA2-3087-4CE0-BBA1-18B5C80CD81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6377AA2-3087-4CE0-BBA1-18B5C80CD81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4C93FA-5D13-407D-9BAA-4AD6EFAD4284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4C93FA-5D13-407D-9BAA-4AD6EFAD4284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4C93FA-5D13-407D-9BAA-4AD6EFAD4284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4C93FA-5D13-407D-9BAA-4AD6EFAD4284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B87BAE5-B0E0-4CF5-BF36-683E1F4D3D2A}
+	EndGlobalSection
+EndGlobal

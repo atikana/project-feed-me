@@ -1,0 +1,23 @@
+.flex-container {
+    display: flex;
+    margin-top: 2em;
+    max-height: 500px;
+}
+
+.flex-item {
+    margin-right: 1em;
+}
+
+.display_none {
+    display: none !important;
+}
+
+.title {
+    font-size: 60px;
+    text-align: center;
+}
+
+.link {
+    font-size: 20px;
+}
+
